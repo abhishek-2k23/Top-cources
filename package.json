@@ -2,7 +2,7 @@
   "name": "top-courses",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://github.com/abhishek-2k23/Top-Courses-FrontEnd",
+  "homepage" : "https://github.com/abhishek-2k23/Top-cources",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
