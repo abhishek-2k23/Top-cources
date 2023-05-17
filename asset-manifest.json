@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhishek-2k23/Top-cources/static/css/main.65d78d43.css",
+    "main.js": "/abhishek-2k23/Top-cources/static/js/main.a461b02c.js",
+    "index.html": "/abhishek-2k23/Top-cources/index.html",
+    "main.65d78d43.css.map": "/abhishek-2k23/Top-cources/static/css/main.65d78d43.css.map",
+    "main.a461b02c.js.map": "/abhishek-2k23/Top-cources/static/js/main.a461b02c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d78d43.css",
+    "static/js/main.a461b02c.js"
+  ]
+}
